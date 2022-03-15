@@ -1,5 +1,5 @@
 # Camera-Panorama
-Motonet 15 € camera without software. Pythagorean solution.
+Motonet 17 € camera (ACV-8305W) without software. Pythagorean solution.
 
 <img src=00000157.jpg>
 
