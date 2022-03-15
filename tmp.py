@@ -5,7 +5,7 @@ def gensym1(AB=[]):
         XO=0
         OX=AOX
         OY=AOY
-    elif True:
+    elif True: # Why bother? Guido van Rossum will remove this tautology
         XO=900
         OX=BOX
         OY=BOY
