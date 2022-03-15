@@ -1,5 +1,5 @@
 # Camera-Panorama
-15 € camera without software
+15 € camera without software. Pythagorean solution.
 
 <img src=00000157.jpg>
 
