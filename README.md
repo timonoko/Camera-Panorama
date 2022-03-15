@@ -3,4 +3,4 @@
 
 <img src=00000157.jpg>
 
-<img src=IM.JPG>
+<img src=IM2.JPG>
