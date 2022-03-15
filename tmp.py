@@ -1,4 +1,4 @@
-# Automagically generated python included. Because amusement value. 
+# Automagically generated python. Because amusement value. 
 # Appears in /tmp/tmp.py by (comppy 'simple_copy).
 
 def gensym1(AB=[]):
